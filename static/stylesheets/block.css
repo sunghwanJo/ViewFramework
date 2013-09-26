@@ -1,0 +1,53 @@
+﻿
+/* */
+/* block item
+/* */
+.block {
+    width: auto;
+    height: auto;
+    float: left;
+    margin: 4px;
+
+    border-radius: 3px;
+    background-color: white;
+
+    box-shadow: #ddd 0px 1px 0px 0px inset, 0px 1px 1px 1px rgba(0,0,0,0.15), 2px 2px 2px 0px rgba(0,0,0,0.3);
+}
+
+.block-normal {
+    width: 160px;
+    height: 160px;
+}
+.block-large {
+    width: 328px;
+    height: 160px;
+}
+
+
+
+/* */
+/* isotope animation
+/* */
+.isotope-item {
+  z-index: 2;
+}
+.isotope-item.isotope-hidden {
+  z-index: 1;
+  pointer-events: none;
+}
+.isotope .isotope-item {
+	transition: background 0.3s, color 0.3s, opacity 0.6s, transform 0.6s;
+	-o-transition: background 0.3s, color 0.3s, opacity 0.6s, -o-transform 0.6s;
+	-ms-transition: background 0.3s, color 0.3s, opacity 0.6s, -ms-transform 0.6s;
+	-moz-transition: background 0.3s, color 0.3s, opacity 0.6s, -moz-transform 0.6s;
+	-webkit-transition: background 0.3s, color 0.3s, opacity 0.6s, -webkit-transform 0.6s;
+}
+.isotope.no-transition,
+.isotope.no-transition .isotope-item,
+.isotope .isotope-item.no-transition {
+	transition-duration: 0s;
+	-o-transition-duration: 0s;
+	-ms-transition-duration: 0s;
+	-moz-transition-duration: 0s;
+    -webkit-transition-duration: 0s;          
+}

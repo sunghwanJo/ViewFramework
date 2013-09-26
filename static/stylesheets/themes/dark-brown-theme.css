@@ -1,0 +1,131 @@
+﻿
+.bg {
+    background: #f7e3d7;
+    /*background: #f5d4c1 url('http://passets-ak.pinterest.com/webapp/app/common/images/bg.11437c43.png?1375208026') repeat;*/
+}
+
+/* */
+/* dark brown theme
+/* */
+.page {
+    -webkit-box-shadow: inset 1px 0 0 rgba(0,0,0,.05), inset -1px 0 0 rgba(0,0,0,.05);
+    -moz-box-shadow: inset 1px 0 0 rgba(0,0,0,.05), inset -1px 0 0 rgba(0,0,0,.05);
+    box-shadow: inset 1px 0 0 rgba(0,0,0,.05), inset -1px 0 0 rgba(0,0,0,.05);
+    background: #ffe8da url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-2.png");
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-width: 0 1px;
+}
+
+.footer {
+    background-color: transparent;
+}
+
+.top-bar {
+    border-bottom: 1px solid #4c4340;
+	border-bottom-color: rgba(40, 40, 40, 0.8);
+
+	-webkit-box-shadow: 0 1px 0 rgba(102, 37, 0, 0.5) inset, 0 -1px 0 rgba(102, 37, 0, 0.2) inset, 0px 1px 1px rgba(0,0,0,.2);
+	-moz-box-shadow: 0 1px 0 rgba(102, 37, 0, 0.5) inset, 0 -1px 0 rgba(102, 37, 0, 0.2) inset, 0px 1px 1px rgba(0,0,0,.2);
+	box-shadow: 0 1px 0 rgba(102, 37, 0, 0.5) inset, 0 -1px 0 rgba(102, 37, 0, 0.2) inset, 0px 1px 1px rgba(0,0,0,.2);
+	
+    background-color: #351e02;
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -webkit-gradient(linear, left top, left bottom, from(#351e02), to(#250e02));
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -webkit-linear-gradient(top, #351e02, #250e02);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -moz-linear-gradient(top, #351e02, #250e02);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -o-linear-gradient(top, #351e02, #250e02);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -ms-linear-gradient(top, #351e02, #250e02);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), linear-gradient(top, #351e02, #250e02);
+	background-position: 50% 50%;
+}
+
+.top-inner ul li {
+    color: #967466;
+    border-right: 1px solid #452e12;
+
+	-webkit-box-shadow: 0 1px 0 rgba(102, 37, 0, 0.5) inset, 0 -1px 0 rgba(102, 37, 0, 0.2) inset, 0px 1px 1px rgba(0,0,0,.2);
+	-moz-box-shadow: 0 1px 0 rgba(102, 37, 0, 0.5) inset, 0 -1px 0 rgba(102, 37, 0, 0.2) inset, 0px 1px 1px rgba(0,0,0,.2);
+	box-shadow: 0 1px 0 rgba(102, 37, 0, 0.5) inset, 0 -1px 0 rgba(102, 37, 0, 0.2) inset, 0px 1px 1px rgba(0,0,0,.2);
+	
+    background-color: #351e02;
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -webkit-gradient(linear, left top, left bottom, from(#351e02), to(#250e02));
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -webkit-linear-gradient(top, #351e02, #250e02);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -moz-linear-gradient(top, #351e02, #250e02);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -o-linear-gradient(top, #351e02, #250e02);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -ms-linear-gradient(top, #351e02, #250e02);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), linear-gradient(top, #351e02, #250e02);
+	background-position: 50% 50%;
+}
+.top-inner ul li:first-child {
+    border-left: 1px solid #452e12;
+}
+.top-inner ul li:hover {
+    border-right: 1px solid #755e42;
+    color: #3C0000;
+
+    background-color: #914c31;
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -webkit-gradient(linear, left top, left bottom, from(#914c31), to(#813c21));
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -webkit-linear-gradient(top, #914c31, #813c21);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -moz-linear-gradient(top, #914c31, #813c21);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -o-linear-gradient(top, #914c31, #813c21);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -ms-linear-gradient(top, #914c31, #813c21);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), linear-gradient(top, #914c31, #813c21);
+}
+.top-inner ul li:first-child:hover {
+    border-left: 1px solid #755e42;
+}
+
+.shop-goods-title {
+    border-bottom-color: #914c31;
+
+    background-color: #914c31;
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -webkit-gradient(linear, left top, left bottom, from(#914c31), to(#813c21));
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -webkit-linear-gradient(top, #914c31, #813c21);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -moz-linear-gradient(top, #914c31, #813c21);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -o-linear-gradient(top, #914c31, #813c21);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -ms-linear-gradient(top, #914c31, #813c21);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), linear-gradient(top, #914c31, #813c21);
+}
+
+.shop-goods-label {
+    border-color: #914c31;
+
+    background-color: #914c31;
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -webkit-gradient(linear, left top, left bottom, from(#914c31), to(#813c21));
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -webkit-linear-gradient(top, #914c31, #813c21);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -moz-linear-gradient(top, #914c31, #813c21);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -o-linear-gradient(top, #914c31, #813c21);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -ms-linear-gradient(top, #914c31, #813c21);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), linear-gradient(top, #914c31, #813c21);
+}
+
+.beanstory-sortbar a, .beanstory-sortbar input[type=submit] {
+    border-color: #914c31;
+
+    background-color: #914c31;
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -webkit-gradient(linear, left top, left bottom, from(#914c31), to(#813c21));
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -webkit-linear-gradient(top, #914c31, #813c21);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -moz-linear-gradient(top, #914c31, #813c21);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -o-linear-gradient(top, #914c31, #813c21);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -ms-linear-gradient(top, #914c31, #813c21);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), linear-gradient(top, #914c31, #813c21);
+}
+.beanstory-sortbar a:hover, .beanstory-sortbar-search input[type=submit]:hover {
+    border-color: #893429;
+
+    background-color: #893429;
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -webkit-gradient(linear, left top, left bottom, from(#893429), to(#792419));
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -webkit-linear-gradient(top, #893429, #792419);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -moz-linear-gradient(top, #893429, #792419);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -o-linear-gradient(top, #893429, #792419);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -ms-linear-gradient(top, #893429, #792419);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), linear-gradient(top, #893429, #792419);
+}
+.beanstory-sortbar a:active, .beanstory-sortbar-search input[type=submit]:active {
+    background-color: #611c01;
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -webkit-gradient(linear, left top, left bottom, from(#611c01), to(#813c21));
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -webkit-linear-gradient(top, #611c01, #813c21);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -moz-linear-gradient(top, #611c01, #813c21);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -o-linear-gradient(top, #611c01, #813c21);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), -ms-linear-gradient(top, #611c01, #813c21);
+	background-image: url("//d36xtkk24g8jdx.cloudfront.net/bluebar/92a81f2/images/shared/noise-1.png"), linear-gradient(top, #611c01, #813c21);
+}
